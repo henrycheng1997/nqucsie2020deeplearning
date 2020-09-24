@@ -7,8 +7,6 @@ NQU 2020深度學習概論筆記
   - 在anaconda終端機輸入指令
 ## 執行程式 regressionok_introduction.py
 - 使用spyder工具開啟程式碼編輯工具
-
-- 作業 範例實作 ecamups繳交
   - ![](./images/pytorch_test.jpg)
   - regressionok_introduction.py
     ```
